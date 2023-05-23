@@ -8,6 +8,8 @@ packages = [{include = "youtube_analytics_project"}]
 
 [tool.poetry.dependencies]
 python = "^3.10"
+google-api-python-client = "^2.86.0"
+isodate = "^0.6.1"
 
 
 [tool.poetry.group.dev.dependencies]
