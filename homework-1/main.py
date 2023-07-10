@@ -9,7 +9,7 @@ if __name__ == '__main__':
   "kind": "youtube#channelListResponse",
   "etag": "uAdmwT0aDhY9LmAzJzIafD6ATRw",
   "pageInfo": {
-    "totalResults": 1,
+    "totalResults": 1
     "resultsPerPage": 5
   },
   "items": [
